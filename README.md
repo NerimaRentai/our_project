@@ -1,2 +1,2 @@
-nobita_project
+shizuka_project
 # our_project
